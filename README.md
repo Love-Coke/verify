@@ -1,0 +1,2 @@
+# verify
+solana verify test
